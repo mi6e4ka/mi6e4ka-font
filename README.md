@@ -1,12 +1,3 @@
-  <style>
-   @font-face {
-    font-family: mi6e4ka-font; /* Гарнитура шрифта */
-    src: url(https://github.com/mi6e4ka/mi6e4ka-font/blob/master/mi6e4ka-font-2.ttf?raw=true); /* Путь к файлу со шрифтом */
-   }
-   h1 {
-    font-family: mi6e4ka-font, 'mi6e4ka-font', cursive;
-   }
-  </style>
 # mi6e4ka-font
 <h1>Тест</h1>
 <p>---ENGLISH---
