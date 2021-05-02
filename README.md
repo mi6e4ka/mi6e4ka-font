@@ -1,6 +1,5 @@
 # mi6e4ka-font
 Посмотреть шрифт: https://mi6e4ka.github.io/mi6e4ka-font/
-<h1>Тест</h1>
 <p>---ENGLISH---
 <p>Download the file "<a href="https://github.com/mi6e4ka/mi6e4ka-font/raw/master/mi6e4ka-font-2.ttf">mi6e4ka-font-2.ttf</a>" - this is the font
 <p>---РУСКИЙ---
